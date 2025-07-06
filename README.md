@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7EF&center=true&vCenter=true&width=800&lines=Cybersecurity+Explorer+%7C+Python+Dev+%7C+CTF+Hunter+%7C+DevOps+Learner" alt="Typing SVG" />
 </p>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Cybersecurity+Explorer;Python-Dev;CTF+Hunter;DevOps+Learner)](https://git.io/typing-svg)
 
 ## 🧠 About Me
 
